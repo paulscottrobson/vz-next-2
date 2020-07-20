@@ -1,0 +1,4 @@
+#!/bin/bash
+set -e
+make -f build.files/makefile.linux
+./vznext
